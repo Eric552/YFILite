@@ -1,4 +1,6 @@
-# iearn finance
+YFI Lite is a micro composite of orginal Yearn Finance project
+
+# iearn finance lite
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
